@@ -10,5 +10,5 @@ Here are the basic rules of the game:
 
 A Tic Tac Toe game can be implemented in many different ways, such as using a command-line interface, a graphical user interface, or through networked play. The repository you mentioned may contain code for one of these implementations of the game.
 
-
+# Live: https://musharafali07.github.io/Tic-Tac-Teo-Game/
 # Link: https://codepen.io/musharafali07/pen/RwBrNVP
